@@ -1,0 +1,94 @@
+body {
+    
+   font-family: Tahoma; 
+}
+
+.conteiner {
+    display: flex;
+    justify-content: space-between;
+    line-height: inherit;
+    margin: auto;
+}
+
+.text {
+     text-align: 1.5;
+}
+
+.image {
+    height: 630px;
+    width: 404px;
+    margin-right: 40px;
+}
+
+.queen {
+   font-size: 48pt;
+    font-weight: 500;
+ 
+    margin-bottom: -44px;
+}
+
+.name {
+    font-size: 30pt;
+    font-weight: 300;
+    text-align: left;
+    margin-bottom: -4px;
+}
+
+.summ {
+   font-size: 44pt; 
+    margin-top: 24px;
+}
+
+.block_btn {
+    display: inline-block;
+}
+
+.btn {
+    color:#f15921;
+    font-size: 24pt;
+    background-color: #fff;
+    padding: 33.5px 20px;
+    color: #f15921;
+    border: 1px solid #f15921;
+    border-radius: 10px 10px;
+    margin-right: 40px;
+    transition: .1s;
+}
+
+.btn:hover {
+    color: white;
+    background-color: #f15921;
+}
+
+.contant {
+     display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    line-height: inherit;
+    margin: auto;
+    height: 408px;
+    background-color: #f2f2f2;
+    margin-top: 50px;
+}
+
+.head {
+    display: block;
+    flex-basis: 100%;
+    text-align: center;
+    font-weight: 500;
+    font-size: 30pt;
+}
+
+.icon {
+   text-align: center;
+    margin-top: 50px;
+}
+
+.footer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    line-height: inherit;
+    margin: auto;
+    margin-top: 50px;
+}
