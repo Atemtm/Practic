@@ -1,0 +1,49 @@
+body {
+    box-sizing:inline-block;
+    margin-top: 64px;
+}
+
+.image {
+    display: inline-block;
+    vertical-align: middle;
+    
+    height: 376px;
+    width: 376px;
+    
+}
+
+.text{
+    margin-left: 100px;
+    width: 410px;
+    
+     display: inline-block;
+    vertical-align: middle;
+}
+
+h3{
+    margin-top: 31px;
+    font-size: 22.5pt;
+}
+
+.info {
+    height: 80px;
+    margin-top: 18px;
+    font-weight: 15pt;
+    font-size: 15pt;
+}
+
+price{
+   font-size: 15pt; 
+}
+
+.cost{
+    font-size: 30pt;
+    margin-top: 18px;
+}
+
+button {
+    width: 252px;
+    height: 50px;
+    color: white;
+    background-color: #ec744a;
+}
